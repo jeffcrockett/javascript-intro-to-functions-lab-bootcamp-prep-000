@@ -3,7 +3,7 @@ function shout(string){
   
 }
 
-function whisper(string){
+function sayHiToGrandma(string){
   return string.toLowerCase()
   
 }
